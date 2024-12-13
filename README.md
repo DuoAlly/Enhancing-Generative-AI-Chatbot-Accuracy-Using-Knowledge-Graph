@@ -8,7 +8,7 @@
 
 [**Overview**](#overview) | [**Key Features**](#key-features) | [**Quick Start**](#quick-start)
 
-<img src="enhancing-genai-chatbot-knowledge-graph.jpg" alt="enhancing-genai-chatbot-knowledge-graph" width="400"/>
+<img src="chatbot-architecture.jpg" alt="Chatbot Architecture" width="600"/>
 
 </div>
 
